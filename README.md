@@ -1,4 +1,4 @@
-# commandline-chat
+# TerminalChat
 a simple chat client built with node.js that runs on terminal
 
 ## Installation
