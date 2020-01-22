@@ -12,4 +12,4 @@ Required Node Modules - express, chatkit, axios, linebyline, jsdom and ora.
 5. Now open multiple windows of the terminal and run ```node client.js```.
 
 ## License
-[MIT](https://github.com/itsknk/commandline-chat/blob/master/LICENSE)
+[Apache 2.0](https://github.com/itsknk/TerminalChat/blob/master/LICENSE)
